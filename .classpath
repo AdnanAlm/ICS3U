@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Temp/AreaOfRectangle/src"/>
+	<classpathentry kind="src" path="Temp/arrys1/src"/>
+	<classpathentry kind="src" path="Temp/FJP/src"/>
+	<classpathentry kind="src" path="Temp/forLoop2/src"/>
+	<classpathentry kind="src" path="Temp/GessingGame/src"/>
+	<classpathentry kind="src" path="Temp/ICS3U/src"/>
+	<classpathentry kind="src" path="Temp/Income-TAX/src"/>
+	<classpathentry kind="src" path="Temp/math oprations/src"/>
+	<classpathentry kind="src" path="Temp/Porgram 1/src"/>
+	<classpathentry kind="src" path="Temp/positivePractice/src"/>
+	<classpathentry kind="src" path="Temp/practice/src"/>
+	<classpathentry kind="src" path="Temp/program 2/src"/>
+	<classpathentry kind="src" path="Temp/Program 3/src"/>
+	<classpathentry kind="src" path="Temp/Unit 3/src"/>
+	<classpathentry kind="src" path="Temp/unitSummitive/src"/>
+	<classpathentry kind="src" path="Temp/User inpot/src"/>
+	<classpathentry kind="src" path="Temp/userdifinedMethods/src"/>
+	<classpathentry kind="src" path="Temp/Variables and Variable Type- Adnan Almuqdad/src"/>
+	<classpathentry kind="output" path="Temp/AreaOfRectangle/bin"/>
+</classpath>
